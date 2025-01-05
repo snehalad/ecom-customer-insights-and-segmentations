@@ -1,6 +1,13 @@
 # Customer Segmentation and Analysis
 
-💫 Dataset : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_orders_dataset.csv
+## 📝 Project Overview
+
+This project analyzes the dataset to derive meaningful business insights through customer segmentation and behavior analysis.
+
+💫 [Dataset]([url](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_orders_dataset.csv)) 
+
+🔗 [Check out Blog Post]([url](https://medium.com/@snehalad))
+
 
 ### 🎯 **Define Your Objectives**
 
